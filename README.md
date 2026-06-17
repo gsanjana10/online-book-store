@@ -1,20 +1,40 @@
-# Online Book Store 📚
+📚 Online Book Store
 
-## Project Description
 A simple Online Book Store website built using HTML, CSS, JavaScript, Node.js, and Express.
 
-## Features
-- Display books
-- Show prices
-- Add to Cart button
-- Backend API using Express
+✨ Features
 
-## Technologies Used
+- 📖 Display books
+- 💰 Show book prices
+- 🛒 Add to Cart button
+- 🔗 Backend API using Express
+
+🛠️ Technologies Used
+
 - HTML
 - CSS
 - JavaScript
 - Node.js
 - Express.js
+
+📁 Project Structure
+
+Online-Book-Store
+- index.html
+- style.css
+- script.js
+- backend/server.js
+- package.json
+- README.md
+
+🚀 How to Run
+
+- Download the project files
+- Open `index.html` in a browser
+- Run backend using:
+
+```bash
+node server.js
 
 ## API Endpoint
 

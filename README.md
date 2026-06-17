@@ -24,6 +24,10 @@ http://localhost:5000/books
 
 ![Online Book Store](Online-Book-Store-Homepagepng)
 
+## Backend API Output
+
+![Backend API](backend-api-output.png)
+
 ## Books Available
 - Harry Potter
 - Rich Dad Poor Dad

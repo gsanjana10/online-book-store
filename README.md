@@ -34,21 +34,6 @@ Online-Book-Store
 - Open `index.html` in a browser
 - Run backend using:
 
-```bash
-node server.js
-
-## 📡 API Endpoint
-
-http://localhost:5000/books
-
-## 📸 Screenshot
-
-![Online Book Store](Online-Book-Store-Homepagepng)
-
-## ⚙️ Backend API Output
-
-![Backend API](backend-api-output.png)
-
 ## 📚 Books Available
 
 - Harry Potter

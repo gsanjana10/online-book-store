@@ -1,15 +1,15 @@
-📚 Online Book Store
+# 📚 Online Book Store
 
-A simple Online Book Store website built using HTML, CSS, JavaScript, Node.js, and Express.
+A simple Online Book Store website built using HTML, CSS, JavaScript, Node.js, and Express.js.
 
-✨ Features
+## ✨ Features
 
-- 📖 Display books
-- 💰 Show book prices
-- 🛒 Add to Cart button
-- 🔗 Backend API using Express
+- Display books
+- Show book prices
+- Add to Cart button
+- Backend API using Express
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
@@ -17,9 +17,10 @@ A simple Online Book Store website built using HTML, CSS, JavaScript, Node.js, a
 - Node.js
 - Express.js
 
-📁 Project Structure
+## 📁 Project Structure
 
 Online-Book-Store
+
 - index.html
 - style.css
 - script.js
@@ -27,7 +28,7 @@ Online-Book-Store
 - package.json
 - README.md
 
-🚀 How to Run
+## 🚀 How to Run
 
 - Download the project files
 - Open `index.html` in a browser
@@ -36,19 +37,32 @@ Online-Book-Store
 ```bash
 node server.js
 
-## API Endpoint
+## 📡 API Endpoint
 
 http://localhost:5000/books
 
-## Screenshot
+## 📸 Screenshot
 
 ![Online Book Store](Online-Book-Store-Homepagepng)
 
-## Backend API Output
+## ⚙️ Backend API Output
 
 ![Backend API](backend-api-output.png)
 
-## Books Available
+## 📚 Books Available
+
 - Harry Potter
 - Rich Dad Poor Dad
 - Atomic Habits
+
+## 🎯 Learning Outcomes
+
+- Learned HTML, CSS, and JavaScript
+- Learned Node.js and Express.js basics
+- Created a backend API
+- Connected frontend with backend data
+- Practiced Git and GitHub project management
+
+## 👩‍💻 Author
+
+Sanjana Gampala
